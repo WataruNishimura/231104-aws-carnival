@@ -1,0 +1,5 @@
+{
+  "markdown.marp.themes": [
+    "https://raw.githubusercontent.com/mikan-foundation/seb-marp-theme/main/theme/seb-theme.css"
+  ]
+}
